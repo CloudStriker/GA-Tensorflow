@@ -6,8 +6,8 @@
         904,
         768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/vectors_SFT_Dataset_success_full_run_2025-11-24_Katalin_v10_OutputOnly_OpenRouter.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/metadata_SFT_Dataset_success_full_run_2025-11-24_Katalin_v10_output_only.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/vectors_katalin_v10.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/metadata_katalin_v10.tsv"
     }
   ]
 }
