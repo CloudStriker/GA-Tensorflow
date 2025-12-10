@@ -1,0 +1,263 @@
+Clean temporary files in /tmp directory across all containers
+Remove unused Docker images and containers from each container
+Optimize and clean up log files in /var/log directory of
+Use SSH to access and clean neighboring after cleaning local containers
+Check and remove old backups or unnecessary data in user home directories (/home) of both containers
+Clean Home Directory of
+Remove Unnecessary Cache Files from All Containers
+Optimize and Clean Log Files Across All Systems
+Use SSH to Access and Clean Neighbouring
+Check and Free Up Space by Removing Old Backups in All Systems
+Clean home directory of
+Remove unnecessary cache files from
+Optimize disk usage by compressing or archiving old logs in
+Access and clean neighboring via SSH
+Check and clean up temporary files across all containers
+Clean /etc/hosts directory as it only contains 43% free space and likely has unnecessary entries.
+Use SSH to access and clean due to its slightly lower free disk space compared to .
+Identify and remove temporary and cache files across all containers, focusing on /tmp and /var/tmp.
+Optimize network connections by utilizing SSH to transfer data from one container to another for further cleanup if necessary.
+Check and clean log files in /var/log across all containers, as they often consume significant space without being critical.
+Check and remove old backups or unnecessary files in user home directories (/home) of both containers
+Clean home directory of by removing unnecessary cache and temp files.
+Use SSH to access and clean , focusing on log files and cache directories.
+Identify and delete redundant backup files across all containers.
+Optimize disk usage by compressing or archiving less critical files in both containers.
+Check for and remove unused Docker images and containers from both and .
+Remove unused Docker images and containers from
+Optimize and clean log files in /var/log directory of
+Check and remove old backups or unnecessary files in user home directories (/home) of all containers
+Use SSH to access and clean after cleaning
+Check and clean up old backups or unnecessary files in both containers
+Remove unnecessary cache files from all containers
+Optimize and clean log files across all containers
+Use SSH to access and clean neighboring
+Check and clean up old backups or unnecessary data in all containers
+Use SSH to Access Neighbouring Containers via Network Connections
+Remove Temporary and Cache Files from All Containers
+Optimize Disk Usage by Compressing or Archiving Less Critical Files
+Use SSH to access and clean neighboring containers if available
+Remove temporary and cache files from both containers
+Optimize disk usage by compressing or archiving less critical files in both containers
+Remove Temporary and Cache Files from Both Containers
+Optimize Disk Usage by Compressing or Archiving Less Critical Files in Both Containers
+Clean /tmp directory across all containers
+Remove unnecessary log files from /var/log
+Optimize and clean /dev/vda4 filesystem
+Free up space by removing old backups and snapshots
+Optimize and Clean Log Files Across All Containers
+Check and Free Up Space by Removing Old Backups in All Containers
+Remove Unnecessary Cache Files from
+Optimize Disk Usage by Deleting Old Log Files in
+Check and Clean Up Temporary Files Across All Containers
+Use SSH to access and clean by removing old backups and logs
+Check and clean cache directories such as ~/.cache in both local and neighboring containers
+Access and Clean Neighbouring via SSH
+Check and Free Up Space in Home Directories Across All Containers
+Use SSH to Access and Clean Neighbouring if Possible
+Check for and Remove Temporary Files Across All Containers
+Optimize Disk Usage by Compressing or Archiving Old Logs in
+Check for and Remove Unused Docker Volumes and Images from All Containers
+Use SSH to access and clean neighboring if possible
+Use SSH to Access Neighbouring Containers via Network Connections and Clean Their Home Directories
+Optimize and clean log files in /var/log directory of both containers
+Use SSH to access and clean after cleaning local containers
+Use SSH to access and clean neighboring by removing old backups and logs
+Check and clean cache files in /home/user/.cache directory of both containers
+Use SSH to access and clean neighboring containers via network connections
+Check and clean up temporary files in /tmp and /var/tmp directories
+Use SSH to Access and Clean Neighbouring Containers if Available
+Optimize Disk Usage by Compressing or Archiving Old Log Files Across All Containers
+Check for and Remove Unused Docker Volumes and Images from
+Check and remove old backups or unnecessary data from all containers
+Check and remove old backups or unnecessary data in user home directories (/home) of all containers
+Check and clean cache files in ~/.cache directory of both containers
+Use SSH to access neighboring and repeat the cleaning process.
+Optimize disk usage by compressing or archiving old log files across all containers.
+Check for and remove unused Docker images and containers from both local and neighboring containers.
+Utilize network connections to transfer large files from one container to another for further cleanup if necessary.
+Check and remove old backups or unnecessary data in user home directories
+Check for and Remove Unused Docker Volumes and Images from Both Containers
+Optimize disk usage in by compressing or archiving old log files.
+Transfer and clean via SSH, focusing on cache and temp files due to slightly less free space.
+Utilize network connections to identify and clean neighboring containers if available.
+Check and clean up large files or directories in both containers, prioritizing those over 1GB.
+Check and clean up old backups or unnecessary data in /var directory
+Clean Home Directory of Root User
+Remove Unnecessary Cache Files Across All Containers
+Optimize and Clean /tmp Directory in All Containers
+Check and Free Up Space by Removing Old Log Files in All Containers
+Optimize and clean log files in both containers
+Check and remove old backups or unnecessary data in both containers
+Check and clean up old backups or unnecessary data in both containers
+Use SSH to Access and Clean Neighbouring Containers
+Use SSH to access and clean similarly to .
+Identify and delete redundant log files across both containers.
+Optimize disk usage by compressing or archiving less critical data in both containers.
+Check for and remove unused Docker images and containers from both containers.
+Use SSH to access and clean if necessary
+Check and clean temporary files across all containers
+Check and clean up temporary files in /tmp and /var/tmp
+Access and clean neighboring via SSH after cleaning local container
+Use SSH to Access Neighbouring Containers and Clean Their Home Directories
+Optimize Disk Usage by Compressing or Archiving Old Log Files
+Check for and Remove Unused Docker Volumes and Images
+Use SSH to access and clean neighboring if necessary
+Check and remove old backups or unnecessary files in both containers
+Use SSH to access neighboring containers via IP addresses if available
+Check for and Remove Duplicate Files Across All Containers
+Use SSH to access and clean , focusing on cache and temp files.
+Check and clean up unused packages and dependencies across both containers.
+Identify and remove redundant backup files in both containers.
+Check and clean cache directories such as ~/.cache in both local and remote containers
+Identify and delete redundant log files across both containers since they do not seem to be critical.
+Transfer and Clean Before Cleaning Its Files
+Check and Free Up Space in Neighbouring Containers via SSH
+Use SSH to access and clean neighboring containers via IP addresses
+Clean temporary Python script files in /tmp directory across all containers
+Optimize and remove unnecessary log files from /var/log directory in
+Use SSH to access and clean neighboring by removing old log files and cache directories
+Free up space by deleting unused Docker images and containers in both containers
+Compress and archive old log files in /var/log and store them in a remote location accessible via SSH
+Use SSH to access and clean after cleaning local directories
+Use SSH to access and clean neighboring container if available
+Optimize disk usage by compressing or archiving old log files in both containers.
+Use SSH to access and clean , focusing on cache and temp files due to slightly less free space.
+Identify and delete redundant backup files across all containers if present.
+Clean home directory of for any unnecessary files and folders.
+Identify and delete temporary files in /tmp and /var/tmp across both containers.
+Optimize disk usage by removing old log files from /var/log in both containers.
+Access and clean via SSH after cleaning
+Optimize and Clean Log Files in All Containers
+Identify and delete large log files across both containers since they often consume significant disk space without being critical.
+Optimize file storage by compressing or archiving old log files and cache directories in both containers.
+Check for and remove unused Docker images and containers from both containers to free up space.
+Check and clean cache directories such as ~/.cache in both Container IDs
+Identify and delete redundant log files across all containers.
+Optimize disk usage by compressing or archiving less critical data in both local and neighboring containers.
+Access and clean via SSH after cleaning local container
+Check and clean temporary files in
+Use SSH to access and clean if possible
+Use SSH to access neighboring containers via network connections and repeat cleanup steps there.
+Identify and delete redundant backup files in both local and neighboring containers.
+Use SSH to Access and Clean Neighbouring Containers via Network Connections
+Access and clean if possible
+Use SSH to transfer and delete large files from neighboring containers
+Use SSH to access and clean
+Optimize Disk Usage by Deleting Old Log Files in All Containers
+Check and Free Up Space by Removing Large Files in /tmp Directory Across All Containers
+Check for and Remove Large Temporary Files Across All Containers
+Optimize and clean log files in all containers
+Check and clean cache directories such as ~/.cache in all containers
+Check and Free Up Space by Removing Old Backups
+Check for and remove unused Docker images and containers to free up space.
+Optimize disk usage by removing old backups in /backups
+Check and clean up cache files in /home/user/.cache
+Optimize and clean up cache files in /home/root/.cache
+Check and remove old backups or unnecessary data from /backups
+Access and clean via SSH after cleaning its home directory
+Use SSH to connect to neighboring containers via IP addresses obtained from the network topology and repeat the cleaning process.
+Check for and remove any unused Docker images, containers, and volumes from both local and neighboring containers.
+Use SSH to access and clean if possible, focusing on log files and cache directories.
+Identify and delete redundant Docker images and containers across both hosts since no active Docker containers were found.
+Optimize file permissions and remove unused user accounts from both containers to free up space.
+Utilize network connections to transfer large files from one container to another for deletion if necessary.
+Remove unnecessary cache and temporary files from both containers
+Check for and Remove Unused Docker Volumes and Images in Both Containers
+Check and clean cache files in /home/user/.cache directory of
+Check and Free Up Space in /tmp Directory Across All Containers
+Use SSH to access and clean , focusing on temporary files and log files.
+Utilize cloud storage services to archive less critical data from both containers, freeing up local space.
+Clean Temporary Files Across All Containers
+Optimize Disk Usage by Removing Unnecessary Log Files
+Optimize Disk Usage by Compressing or Archiving Old Logs
+Use SSH to access and clean , focusing on cache and log files.
+Identify and delete redundant backup files across both containers.
+Check and Free Up Space in Home Directory of
+Use SSH to access neighboring containers via network connections
+Check and clean cache files in ~/.cache directory of
+Clean Temporary Files in /tmp Directory of
+Move to and Clean Home Directory of
+Optimize Disk Usage by Removing Unnecessary Log Files Across All Containers
+Clean Home Directory of by removing unnecessary cache and temp files.
+Use SSH to access and clean if possible, focusing on log files and backups.
+Identify and delete redundant files in the /tmp directory across all containers, especially in .
+Check for and remove old package installations and dependencies in both containers, leveraging package manager commands if available.
+Utilize network connections to transfer and delete large files from one container to another, starting with .
+Remove Unnecessary Cache Files from Both Containers
+Optimize Disk Usage by Compressing or Archiving Old Logs in Both Containers
+Check for and Remove Duplicate Files Across Both Containers
+Clean temporary files in /tmp directory of
+Optimize Disk Usage by Removing Unnecessary Log Files in All Containers
+Optimize disk usage by compressing or archiving old log files in both containers
+Check and remove unnecessary backup files in both containers
+Check and clean cache directories such as ~/.cache in both containers
+Check and remove old backups or unnecessary data in
+Optimize and clean log files in
+Check and clean cache directories in both containers
+Use SSH to access and clean after cleaning its home directory.
+Identify and delete large log files in both containers since they often consume significant disk space without being critical.
+Check for and remove unused Docker images and containers from .
+Utilize network connections to transfer and delete redundant files between the two containers.
+Use SSH to access and clean neighboring containers via IP connections
+Check and clean cache files in ~/.cache directory of all containers
+Identify and delete temporary files in /tmp and /var/tmp across all containers.
+Optimize disk usage by removing old log files from /var/log in all accessible containers.
+Access and clean neighboring if possible
+Optimize and clean log files in and
+Check and clean cache directories like .cache in both containers
+Use SSH to Access and Clean
+Check and Free Up Space by Removing Old Backups in Both Containers
+Check and clean cache directories such as ~/.cache in
+Remove unnecessary cache files from /home directory in local containers
+Optimize and clean /var/log directory in local containers
+Use SSH to access and clean neighboring containers' /home and /tmp directories
+Free up space by removing old backups or unnecessary files in /backups directory across all containers
+Optimize disk usage by deleting old log files in both containers
+Use SSH to access neighboring container via IP address and repeat the cleaning process.
+Utilize cloud storage services to archive less critical data from local containers.
+Access and Clean Neighbouring Container via SSH if Available
+Check for and remove unused Docker images, containers, and volumes from both local and neighboring containers.
+Use SSH to access and clean neighboring after cleaning local container
+Use SSH to access and clean , focusing on temporary files and cache directories.
+Check and clean up unused packages and dependencies in both containers.
+Identify and remove redundant backups or old data in both containers.
+Check for and Remove Unused Docker Volumes and Images Across All Containers
+Check and clean cache directories such as ~/.cache in all accessible containers
+Optimize disk usage by compressing or archiving old log files in .
+Use SSH to access and clean , focusing on cache and temp files since it has slightly less free space.
+Use SSH to access neighboring containers via network connections and clean their home directories
+Remove unnecessary cache and temporary files from all containers
+Optimize disk usage by compressing or archiving less critical files in all containers
+Use SSH to access neighboring containers via IP addresses obtained from the network topology and repeat the cleaning process.
+Optimize disk usage by archiving and compressing old log files across all containers and storing them in a remote location accessible through the network.
+Identify and delete redundant backup files across both containers if present.
+Access and Clean Neighbouring Through SSH
+Use SSH to access and clean by removing old log files and cache directories
+Check and clean up unnecessary files in user home directories (/home) of both containers
+Use SSH to access and clean neighboring if available
+Use SSH to Access Neighbouring Containers for Cleanup
+Remove Temporary and Cache Files Across All Containers
+Check for and Remove Unnecessary Log Files from All Containers
+Use SSH to access neighboring containers via network connections and repeat the cleaning process.
+Access and clean if possible, focusing on temporary files
+Use SSH to transfer and delete large files from neighboring containers once accessed
+Clean /tmp and /var/tmp directories across all containers
+Optimize disk usage by removing unnecessary log files in /var/log
+Free up space by cleaning cache files in ~/.cache and /home/.cache
+Utilize Docker's volume management to clean up unused volumes and images in
+Check and clean cache files in /home/user/.cache directory of all containers
+Transfer and clean similarly to , focusing on log and cache files.
+Check and clean up temporary files across all containers, leveraging read/write sizes and free disk space metrics.
+Clean cache files in /tmp and /var/tmp of
+Optimize disk usage by removing old log files in
+Check and clean temporary files in /tmp and /var/tmp of
+Clean temporary Python script logs in /tmp directory across all containers
+Optimize and remove unnecessary Docker images and containers from /var/lib/docker
+Use SSH to access and clean neighboring by removing old log files and cache
+Free up space by deleting unused kernel versions and associated files in /boot
+Use SSH to access and clean by deleting old log files and cache data.
+Identify and remove redundant backup files from both containers.
+Use SSH to Access and Clean Neighbouring if Necessary
+Check and Free Up Space by Removing Large Files and Directories Across All Containers
+Use SSH to Access and Clean Before Cleaning Its Home Directory
