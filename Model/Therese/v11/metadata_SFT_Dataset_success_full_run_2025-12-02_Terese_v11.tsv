@@ -1,0 +1,16 @@
+Clean unnecessary logs from both local container and neighboring containers.
+Remove temporary files from both local container and neighboring containers.
+Clear cache directories from both local container and neighboring containers.
+Optimize disk usage by removing redundant packages and dependencies.
+Transfer large files between containers using SSH to balance disk space.
+Clean Docker Containers
+Remove Temporary Files
+Optimize Log Files
+Clear Cache Directories
+Transfer Data Between Neighbouring Containers
+Clean Docker Containers: Remove unused images, containers, volumes, and networks.
+Remove Temporary Files: Delete unnecessary temporary files from /tmp and user-specific temp directories.
+Optimize Log Files: Compress or rotate log files located in /var/log to save space.
+Clear Browser Cache: If applicable, clear cache and cookies from web browsers installed in the containers.
+Check Neighbouring Containers: SSH into neighbouring containers to identify and clean similar directories.
+Clear Browser Cache: If applicable, clear browser cache and cookies.
