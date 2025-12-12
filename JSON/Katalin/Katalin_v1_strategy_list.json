@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Katalin v1 Strategy List",
+      "tensorShape": [
+        3228,
+        768
+      ],
+      "tensorPath": "https://github.com/CloudStriker/GA-Tensorflow/raw/refs/heads/main/Model/Katlin/v1/vectors_katalin_v1.tsv",
+      "metadataPath": "https://github.com/CloudStriker/GA-Tensorflow/raw/refs/heads/main/Model/Katlin/v1/metadata_katalin_v1.tsv"
+    }
+  ]
+}
