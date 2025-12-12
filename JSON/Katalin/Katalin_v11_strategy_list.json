@@ -3,11 +3,11 @@
     {
       "tensorName": "Katalin v11 Strategy List",
       "tensorShape": [
-        3228,
+        443,
         768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/metadata_SFT_Dataset_success_full_run_2025-11-26_Katalin_v11.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/vectors_SFT_Dataset_success_full_run_2025-11-26_Katalin_v11.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/metadata_katalin_v11.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/vectors_katalin_v11.tsv"
     }
   ]
 }
