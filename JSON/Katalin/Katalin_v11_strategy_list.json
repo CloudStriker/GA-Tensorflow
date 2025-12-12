@@ -6,8 +6,8 @@
         443,
         768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/metadata_katalin_v11.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/vectors_katalin_v11.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/vectors_katalin_v11.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v11/metadata_katalin_v11.tsv"
     }
   ]
 }
