@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Therese v12 Strategy List",
+      "tensorShape": [
+        110,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v12/vectors_therese_v12.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v12/metadata_therese_v12.tsv"
+    }
+  ]
+}
