@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Therese v5 Strategy List No Retry",
+      "tensorShape": [
+        5,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v5/vectors_terese_v5_clean_no_retry.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v5/metadata_terese_v5_clean_no_retry.tsv"
+    }
+  ]
+}
