@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Miri v13 Strategy List",
+      "tensorShape": [
+        226,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Miri/v13/vectors_miri_v13_strategy.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Miri/v13/metadata_miri_v13_strategy.tsv"
+    }
+  ]
+}
