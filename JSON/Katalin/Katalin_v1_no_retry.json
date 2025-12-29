@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Katalin v1 Strategy List No Retry",
+      "tensorShape": [
+        2536,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v1/vectors_katalin_v1_clean_no_retry.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v1/metadata_katalin_v1_clean_no_retry.tsv"
+    }
+  ]
+}
