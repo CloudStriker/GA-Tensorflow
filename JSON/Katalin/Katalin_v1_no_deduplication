@@ -6,7 +6,7 @@
         6970,
         768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katlin/v1/metadata_katalin_v1_no_deduplication.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katalin/v1/vectors_katalin_v1_no_deduplication.tsv",
       "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Katalin/v1/metadata_katalin_v1_no_deduplication.tsv"
     }
   ]
