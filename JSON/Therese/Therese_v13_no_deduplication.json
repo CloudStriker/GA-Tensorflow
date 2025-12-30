@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Therese v13 Strategy List No Deduplication",
+      "tensorShape": [
+        6958,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v13/vectors_therese_v13_no_deduplication.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/CloudStriker/GA-Tensorflow/refs/heads/main/Model/Therese/v13/metadata_therese_v13_no_deduplication.tsv"
+    }
+  ]
+}
